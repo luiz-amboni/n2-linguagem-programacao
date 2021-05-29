@@ -1,4 +1,4 @@
-# N2_LPIII
+# N2-LINGUAGEMPROGRAMACAO
 
 Foi utilizado o MongoDB Atlas como banco de dados e o envio das requisições foi feito pelo Postman.
 
